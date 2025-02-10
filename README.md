@@ -1,4 +1,4 @@
-This is my journey learning c with sdl
+This is my journey learning c/cpp with sdl
 
 day 1 : 9-2-2025 :-
 
