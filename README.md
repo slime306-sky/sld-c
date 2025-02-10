@@ -16,7 +16,7 @@ made chess board (tutorial : https://youtu.be/U4ogK0MIzqk?si=tV_Uw3M2kXzetQjQ&t=
 file name : chessboard.cpp
 
 learned how to move object with mouse(chatgpt : https://chatgpt.com/share/67aa094b-d11c-800d-b54d-adff6a10f107)
-move.c
+move.cpp
 
 learned how image is loaded (chatgpt : https://chatgpt.com/share/67aa094b-d11c-800d-b54d-adff6a10f107)
-moveimage.c
+moveimage.cpp
