@@ -23,6 +23,10 @@ move.cpp
 learned how image is loaded (chatgpt : https://chatgpt.com/share/67aa094b-d11c-800d-b54d-adff6a10f107)
 moveimage.cpp
 
+day - 3 : 12-02-2025 :-
 
+add pieces in chess board
 
+![chessBoardWithPieces](https://github.com/user-attachments/assets/9b58a20d-85e3-4cd8-8230-9cd5841acf42)
 
+chessBoardWithPieces.cpp
