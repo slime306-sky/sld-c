@@ -30,3 +30,11 @@ add pieces in chess board
 ![chessBoardWithPieces](https://github.com/user-attachments/assets/9b58a20d-85e3-4cd8-8230-9cd5841acf42)
 
 chessBoardWithPieces.cpp
+
+day - 4 : 13-02-2025 :-
+
+pieces can move now 
+
+pieces also can capture other pieces but there is no concept of legal moves and np chance wise play
+
+chessPiecesCanMove.cpp
