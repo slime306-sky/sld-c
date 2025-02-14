@@ -17,10 +17,12 @@ day 2 : 10-2-2025 :-
 made chess board (tutorial : https://youtu.be/U4ogK0MIzqk?si=tV_Uw3M2kXzetQjQ&t=27)
 file name : chessboard.cpp
 
-learned how to move object with mouse(chatgpt : https://chatgpt.com/share/67aa094b-d11c-800d-b54d-adff6a10f107)
+learned how to move object with mouse
+
 move.cpp
 
-learned how image is loaded (chatgpt : https://chatgpt.com/share/67aa094b-d11c-800d-b54d-adff6a10f107)
+learned how image is loaded
+
 moveimage.cpp
 
 day - 3 : 12-02-2025 :-
@@ -35,7 +37,7 @@ day - 4 : 13-02-2025 :-
 
 pieces can move now 
 
-pieces also can capture other pieces but there is no concept of legal moves and np chance wise play
+pieces also can capture other pieces but there is no concept of legal moves and no chance wise play
 
 https://github.com/user-attachments/assets/4b70acd4-50d8-47ca-a2fc-05b4e2f62153
 
