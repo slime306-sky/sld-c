@@ -40,3 +40,12 @@ pieces also can capture other pieces but there is no concept of legal moves and 
 https://github.com/user-attachments/assets/4b70acd4-50d8-47ca-a2fc-05b4e2f62153
 
 chessPiecesCanMove.cpp
+
+day - 5 : 14-02-2025 :-
+
+pieces can still move but they have bit of broken animation
+
+https://github.com/user-attachments/assets/5ba4935f-e4e3-4794-b7e8-ae45eb66e38b
+
+chessPiecesMovesWithBrokenAnimation.cpp
+
