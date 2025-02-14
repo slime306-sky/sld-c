@@ -37,4 +37,6 @@ pieces can move now
 
 pieces also can capture other pieces but there is no concept of legal moves and np chance wise play
 
+https://github.com/user-attachments/assets/4b70acd4-50d8-47ca-a2fc-05b4e2f62153
+
 chessPiecesCanMove.cpp
