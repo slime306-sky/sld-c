@@ -49,3 +49,12 @@ https://github.com/user-attachments/assets/5ba4935f-e4e3-4794-b7e8-ae45eb66e38b
 
 chessPiecesMovesWithBrokenAnimation.cpp
 
+time : 19:40
+
+just solved some logic for fixing that broken animation
+there was some issue's like i can capture my own pieces and when i click piece two time it gets removed
+solution was i have to store old piece postion and check when i release it which color piece can when it in valid restore old postion 
+
+https://github.com/user-attachments/assets/b3acdf50-3aa6-434e-90c1-c2cb41058977
+
+chessPiecesMovesWithAnimation.cpp
