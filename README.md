@@ -76,3 +76,17 @@ https://github.com/user-attachments/assets/fe9919ea-3f88-4317-a04b-40f7a5e99e9d
 
 chessWithNotation.cpp
 
+time : 18:06
+
+added piece movements
+pawn movements is bit tricky 
+
+todo : 
+el peasant
+castling
+concept of check and checkmate
+and draw as well and stalemate
+
+https://github.com/user-attachments/assets/4e3912b6-b0e8-44ce-9b38-0bce16a4a77c
+
+chessWithPieceMovement.cpp
