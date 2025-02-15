@@ -60,3 +60,19 @@ solution was i have to store old piece postion and check when i release it which
 https://github.com/user-attachments/assets/b3acdf50-3aa6-434e-90c1-c2cb41058977
 
 chessPiecesMovesWithAnimation.cpp
+
+day - 6 : 15-02-2025 :-
+
+today i added notation for chess move 
+castling notation is not add yet 
+
+when i was adding notation there was problem like when i move piece to the same square it was counting as move and displaying the notation and notation were wrong
+
+problem :
+
+i cant flip notation nor board
+
+https://github.com/user-attachments/assets/fe9919ea-3f88-4317-a04b-40f7a5e99e9d
+
+chessWithNotation.cpp
+
