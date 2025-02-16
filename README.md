@@ -6,7 +6,7 @@ setup sdl (tutorial : https://youtu.be/Fy_4ACtmt7A?si=n_YbOqwWc5NLfGmo)
 
 how bacis works 
 
-made bauncy ball (tutorial : https://youtu.be/27iEILBpI04?si=cnEWkJg7MJ2XNqVd) 
+made bouncy ball (tutorial : https://youtu.be/27iEILBpI04?si=cnEWkJg7MJ2XNqVd) 
 
 https://github.com/user-attachments/assets/894ad354-e34a-4bca-a384-309e2f7866ca
 
@@ -15,6 +15,7 @@ file name : bouncy_ball.c
 day 2 : 10-2-2025 :-
 
 made chess board (tutorial : https://youtu.be/U4ogK0MIzqk?si=tV_Uw3M2kXzetQjQ&t=27)
+
 file name : chessboard.cpp
 
 learned how to move object with mouse
