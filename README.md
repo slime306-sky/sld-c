@@ -28,6 +28,9 @@ moveimage.cpp
 
 day - 3 : 12-02-2025 :-
 
+white : king 0 , queen 1 ,rook 2,knight 3,bisiop 4,pawn 5
+black : king 6 , queen 7 ,rook 8,knight 9,bisiop 10,pawn 11
+
 add pieces in chess board
 
 ![chessBoardWithPieces](https://github.com/user-attachments/assets/9b58a20d-85e3-4cd8-8230-9cd5841acf42)
@@ -91,3 +94,10 @@ and draw as well and stalemate
 https://github.com/user-attachments/assets/4e3912b6-b0e8-44ce-9b38-0bce16a4a77c
 
 chessWithPieceMovement.cpp
+
+day - 7  : 17-02-2025 :-
+
+i didnt do much today juct clean the code 
+im stuck how to do check 
+so im gonna watch some videos for it
+
