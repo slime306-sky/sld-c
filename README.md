@@ -101,3 +101,4 @@ i didnt do much today juct clean the code
 im stuck how to do check 
 so im gonna watch some videos for it
 
+chess_clean.cpp
