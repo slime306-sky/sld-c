@@ -102,3 +102,9 @@ im stuck how to do check
 so im gonna watch some videos for it
 
 chess_clean.cpp
+
+day - 8 : 28-02-2025 :-
+
+well i tryed to optimize the program but i didnt work (optimize is big word i meant make code bit easy to read and make changes)
+
+chess_clean.cpp
