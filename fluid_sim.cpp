@@ -161,8 +161,15 @@ int main(int argc, char* argv[]) {
 	vector<Circle> circles;
 
 	int ball;
-	cout << "how many ball :";
-	cin >> ball;
+	while(1)
+	{
+		cout << "how many balls :";
+		cin >> ball;
+		if (ball > 0) {
+			break;
+		}
+		cout << "MotherFucker add positive value. piece of shit\n";
+	}
 	int k = 10, l = 5;
 	for (int i = 0; i < ball; i++) {
 		if (k > 700)
