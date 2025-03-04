@@ -213,6 +213,12 @@ void renderText(SDL_Renderer* renderer, TTF_Font* font,string text, double value
     SDL_RenderTexture(renderer, textTexture, nullptr, &textRect);
 }
 
+void sim(SDL_Renderer* renderer,Circle* circle, Circle* circle2, Physics& stuf) {
+    SetRenderDrawColor(renderer, BLUE);
+    SDL_RenderLine(renderer, circle->x, circle->y, circle2->x, circle2->y);
+    step(circle, circle2, stuf);
+}
+
 
 int main(int argc, char* argv[]) {
     SDL_Init(SDL_INIT_VIDEO);
@@ -225,6 +231,7 @@ int main(int argc, char* argv[]) {
 
     SDL_FRect rect = { 400, 100, 200, 150 }; // x, y, width, height
     int running = 1;
+    int isSimulating = 0;
     SDL_Event event;
 
     Physics stuf = { 0,0,0,0,0,0,0 };
@@ -256,6 +263,9 @@ int main(int argc, char* argv[]) {
                 if (event.key.scancode == SDL_SCANCODE_D || event.key.scancode == SDL_SCANCODE_RIGHT) {
                     circle.v_x -= 5;
                 }
+                if (event.key.scancode == SDL_SCANCODE_SPACE) {
+                    isSimulating = 1;
+                }
             }
         }
 
@@ -272,9 +282,9 @@ int main(int argc, char* argv[]) {
         DrawCircle(renderer, circle);
         DrawCircle(renderer, circle2);
 
-        SetRenderDrawColor(renderer,BLUE);
-        SDL_RenderLine(renderer, circle.x, circle.y, circle2.x, circle2.y);
-        step(&circle,&circle2,stuf);
+        if (isSimulating) {
+            sim(renderer,&circle, &circle2, stuf);
+        }
         //SDL_Delay(20);
 
         SDL_RenderPresent(renderer);
