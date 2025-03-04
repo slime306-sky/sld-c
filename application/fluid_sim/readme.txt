@@ -1,1 +1,1 @@
-put main.cpp and dll files in one folder 
+put .exe and .dll files in one folder 
