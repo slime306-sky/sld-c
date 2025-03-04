@@ -108,3 +108,22 @@ day - 8 : 28-02-2025 :-
 well i tryed to optimize the program but i didnt work (optimize is big word i meant make code bit easy to read and make changes)
 
 chess_clean.cpp
+
+day - 9 : 04-03-2025 :-
+
+just completed how to impliment gravity,mass,collition deltection in circles 
+
+![image](https://github.com/user-attachments/assets/55390b9b-a479-4b3e-abba-c4899a522fb1)
+
+![image](https://github.com/user-attachments/assets/830e8afc-e995-42f8-ba50-a23bed06bfb2)
+
+![image](https://github.com/user-attachments/assets/d7aec10d-402f-4a81-b213-6772e02a1988)
+
+![image](https://github.com/user-attachments/assets/27ddd18a-dcd1-4814-9acc-901309cddea5)
+
+Planets.cpp
+
+im gonna create fluid simulation now chess projects is on hold for now.
+
+
+
